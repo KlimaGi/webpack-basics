@@ -1,0 +1,11 @@
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #687e94;
+}
+
+#image {
+  background: url("blue-p.jpg");
+  background-color: gainsboro;
+  height: 500px;
+  width: 500px;
+}
